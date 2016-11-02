@@ -1,5 +1,5 @@
 {
-  "name": "WapplerSystems\Realurl404Multilingual",
+  "name": "WapplerSystems/Realurl404Multilingual",
   "type": "typo3-cms-extension",
   "description": "Shows the defined error page of the given language if the requested page or file could not be found",
   "homepage": "http://typo3.org",
